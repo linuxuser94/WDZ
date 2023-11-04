@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+footer {
+    font-family: 'Ubuntu', sans-serif;
+
+    height: 8vh;
+
+    margin-top: 85vh;
+
+    text-align: center;
+
+    background-color: slategray;
+}

@@ -3,19 +3,15 @@ h1 {
     font-family: 'Ubuntu', sans-serif;
     color: white;
     padding-top: 2.5%;
-}
-
-h5 {
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 2.5%;
     border-bottom: 4px dashed gold;
     border-width: 5px;
-    padding-bottom: 2.5%;
 }
 
 body {
     background-color: darkgray;
-    margin: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 #board {
@@ -46,4 +42,10 @@ dd {
     border-radius: 5px;
     box-shadow: 5px 5px 30px 1px black inset;
     text-align: justify;
+}
+
+#bottom_logo {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    bottom: 0;
 }

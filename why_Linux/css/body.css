@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    padding-top: 2.5%;
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    border-bottom: 4px dashed gold;
+    border-width: 5px;
+    padding-bottom: 2.5%;
+}
+
+body {
+    background-color: darkgray;
+    margin: 0;
+}
+
+#board {
+    background-color: darkslategray;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+dt {
+    list-style: disc;
+    display: list-item;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight: bold;
+}
+dd {
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: 2.5px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px 1px black inset;
+    text-align: justify;
+}

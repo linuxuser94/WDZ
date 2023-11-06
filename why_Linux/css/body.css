@@ -1,39 +1,40 @@
-h1 {
+/*CSS fajl hijerarhijski radjen od gore prema dole za glavni dio stranice*/
+
+h1 { /*glavni naslov*/
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
-    color: white;
     padding-top: 2.5%;
     padding-bottom: 2.5%;
-    border-bottom: 4px dashed gold;
+    border-bottom: 4px dashed #008F6D;
     border-width: 5px;
 }
 
-body {
-    background-color: darkgray;
+body { /*body je body*/
+    background-color: #433A3F;
     margin-top: 1%;
     margin-bottom: 1%;
 }
 
-#board {
-    background-color: darkslategray;
+#board { /*div sa listom*/
+    background-color: #DFDFDF;
     font-family: 'Ubuntu', sans-serif;
     text-align: left;
     margin-left: 15%;
     margin-right: 15%;
-    color: white;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 3%;
+    border: 5px solid #008F6D;
 }
 
-dt {
+dt { /*lista naslov*/
     list-style: disc;
     display: list-item;
     padding-top: 1%;
     padding-bottom: 1%;
     font-weight: bold;
 }
-dd {
+dd { /*lista opis*/
     padding-left: 4%;
     padding-right: 4%;
     padding-top: 2%;
@@ -44,7 +45,7 @@ dd {
     text-align: justify;
 }
 
-#bottom_logo {
+#bottom_logo { /*prateci logo*/
     position: -webkit-sticky; /* Safari */
     position: sticky;
     bottom: 0;

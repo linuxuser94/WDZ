@@ -1,5 +1,43 @@
 /*OVDJE SAV TEXT*/
 
 h1, h2, p, dt, dd, table {
-    color: #433A3F;
+  color: #433a3f;
+}
+
+a {
+  color: #433a3f;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #433a3f;
+}
+
+a:hover {
+  color: #fe621d;
+  text-decoration: none;
+}
+
+#potpis {
+  color: white;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-size: small;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 1%;
+}
+
+#github_potpis {
+  color: white;
+  text-decoration: none;
+}
+
+#github_potpis:visited {
+  color: white;
+}
+
+#github_potpis:hover {
+  color: #fe621d;
+  text-decoration: none;
 }

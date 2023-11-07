@@ -1,52 +1,58 @@
 /*CSS fajl hijerarhijski radjen od gore prema dole za glavni dio stranice*/
 
-h1 { /*glavni naslov*/
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
-    border-bottom: 4px dashed #008F6D;
-    border-width: 5px;
+h1 {
+  /*glavni naslov*/
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  border-bottom: 4px dashed #008f6d;
+  border-width: 5px;
 }
 
-body { /*body je body*/
-    background-color: #433A3F;
-    margin-top: 1%;
-    margin-bottom: 1%;
+body {
+  /*body je body*/
+  background-color: #433a3f;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
-#board { /*div sa listom*/
-    background-color: #DFDFDF;
-    font-family: 'Ubuntu', sans-serif;
-    text-align: left;
-    margin-left: 15%;
-    margin-right: 15%;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 3%;
-    border: 5px solid #008F6D;
+#board {
+  /*div sa listom*/
+  background-color: #dfdfdf;
+  font-family: "Ubuntu", sans-serif;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 3%;
+  border: 5px solid #008f6d;
 }
 
-dt { /*lista naslov*/
-    list-style: disc;
-    display: list-item;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    font-weight: bold;
+dt {
+  /*lista naslov*/
+  list-style: disc;
+  display: list-item;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-weight: bold;
 }
-dd { /*lista opis*/
-    padding-left: 4%;
-    padding-right: 4%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    border: 2.5px solid black;
-    border-radius: 5px;
-    box-shadow: 5px 5px 30px 1px black inset;
-    text-align: justify;
+dd {
+  /*lista opis*/
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border: 2.5px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 30px 1px black inset;
+  text-align: justify;
 }
 
-#bottom_logo { /*prateci logo*/
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    bottom: 0;
+#bottom_logo {
+  /*prateci logo*/
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  bottom: 0;
 }

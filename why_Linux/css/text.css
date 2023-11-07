@@ -41,3 +41,8 @@ a:hover {
   color: #fe621d;
   text-decoration: none;
 }
+
+li {
+    color:#433a3f;
+    font-family: "Ubuntu-light", sans-serif;
+}

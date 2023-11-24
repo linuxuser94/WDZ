@@ -6,8 +6,7 @@
 <p>Napominjem da taj mali projekat koji sam spomenuo nije završen. Npr. navigacijski meni. Ali može poslužiti jer sam na njemu vježbao ukrašavanje CSS-om.</p>
 <br /><br />
 <p>Također u njemu nema javascript-a.</p>
-
-<p>>Web stranice koje vam mogu pomoći: </p>
+<p>Web stranice koje vam mogu pomoći: </p>
 <ul>
 <li>Za kombinacije boja: https://coolors.co/</li>
 <li>Za favicon: https://favicon.io/</li>

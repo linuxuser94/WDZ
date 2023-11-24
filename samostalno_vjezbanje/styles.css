@@ -1,16 +1,23 @@
 body {
-    margin: 0;
-    overflow: hidden;
+  margin: 0;
+  overflow: hidden;
 }
 
 footer {
-    font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
 
-    height: 8vh;
+  height: 8vh;
 
-    margin-top: 85vh;
+  margin-top: 90vh;
 
-    text-align: center;
+  background-color: slategray;
+}
 
-    background-color: slategray;
+#ikona_tux {
+  margin-top: -45px;
+}
+
+#footer_text {
+  text-align: center;
+  padding-top: 15px;
 }

@@ -15,3 +15,9 @@
 
 <p>Moj završen projekat pun javascript-a: https://github.com/linuxuser94/TicTacToe</p>
 <p>Moj projekat na drugi način (nije završen): https://github.com/linuxuser94/TicTacToe2</p>
+<hr>
+<p>@samir.scetic
+
+student: dzebo.emir
+
+CEPS</p>

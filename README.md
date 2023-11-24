@@ -13,5 +13,5 @@
 <li>Resurs za učenje: https://www.w3schools.com/</li>
 </ul>
 
-<p>Moj završen projekat pun javascripta: https://github.com/linuxuser94/TicTacToe</p>
+<p>Moj završen projekat pun javascript-a: https://github.com/linuxuser94/TicTacToe</p>
 <p>Moj projekat na drugi način (nije završen): https://github.com/linuxuser94/TicTacToe2</p>

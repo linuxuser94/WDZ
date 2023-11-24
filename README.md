@@ -5,4 +5,11 @@
 <br /><br />
 <p>Napominjem da taj mali projekat koji sam spomenuo nije završen. Npr. navigacijski meni. Ali može poslužiti jer sam na njemu vježbao ukrašavanje CSS-om.</p>
 <br /><br />
-<p></p>
+<p>Također u njemu nema javascript-a.</p>
+
+<p>>Web stranice koje vam mogu pomoći: </p>
+<ul>
+<li>Za kombinacije boja: https://coolors.co/</li>
+<li>Za favicon: https://favicon.io/</li>
+<li>Resurs za učenje: https://www.w3schools.com/</li>
+</ul>
